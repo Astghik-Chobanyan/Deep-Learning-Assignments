@@ -22,7 +22,6 @@ The notebook `LinearRegressionComparisons.ipynb` is structured to guide you thro
     - **Closed-Form Linear Regression**: Implement a linear regression model using the closed-form solution.
     - **Linear Regression with Scikit-Learn**: Utilize the `LinearRegression` model from the scikit-learn library.
     - **Gradient Descent**: Implement linear regression using the gradient descent algorithm.
-    - **TensorFlow Linear Regression**: Apply TensorFlow's capabilities to perform linear regression.
     - **Stochastic Gradient Descent**: Implement linear regression using the stochastic gradient descent method.
     - **Mini-Batch Gradient Descent**: Implement linear regression using the mini-batch gradient descent approach.
 
