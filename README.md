@@ -1,5 +1,3 @@
-# README
-
 ## Deep Learning Assignments
 
 ### Overview
